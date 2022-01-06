@@ -17,7 +17,7 @@
     </head>
     <style>
         .innerright,label {
-    color: rgb(16, 170, 16);
+    color: rgb(158, 99, 99);
     font-weight:bold;
 }
 .container,
@@ -49,7 +49,7 @@ input{
 }
 
 .greenbtn {
-    background-color: rgb(16, 170, 16);
+    background-color: gold;
     color: white;
     width: 95%;
     height: 40px;

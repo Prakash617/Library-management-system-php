@@ -113,7 +113,7 @@ class data extends db {
 
     private $id;
 
-
+    
 
     function getissuebook($userloginid) {
 

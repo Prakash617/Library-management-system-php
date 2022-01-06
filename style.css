@@ -29,7 +29,7 @@
 
 .login-form-2 h3 {
     text-align: center;
-    color: #fff;
+    color: rgb(197, 102, 102);
 }
 
 .login-container form {
@@ -46,24 +46,24 @@
 
 .login-form-1 .btnSubmit {
     font-weight: 600;
-    color: #fff;
+    color: rgb(197, 188, 188);
     background-color: #0062cc;
 }
 
 .login-form-2 .btnSubmit {
     font-weight: 600;
-    color: #0062cc;
+    color: #3e91e9;
     background-color: #fff;
 }
 
 .login-form-2 .ForgetPwd {
-    color: #fff;
+    color: rgb(165, 89, 89);
     font-weight: 600;
     text-decoration: none;
 }
 
 .login-form-1 .ForgetPwd {
-    color: #0062cc;
+    color: #cab676;
     font-weight: 600;
     text-decoration: none;
 }
